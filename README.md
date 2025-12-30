@@ -56,4 +56,4 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
 </div> -->
 
-![my-cv-img](https://github.com/hiumx/hiumx/blob/main/images/HieuMX_CV.png)
+![my-cv-img](https://github.com/DevHuy44/DevHuy44/blob/main/Kieuvanhuy_CV.jpg)
