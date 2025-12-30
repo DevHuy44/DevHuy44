@@ -7,7 +7,7 @@
  🌱 I’m currently learning **Fullstack**<br>
  👨‍💻 All of my projects are available at [https://github.com/kieuvanhuy](https://github.com/DevHuy44)<br>
  💬 Ask me about **Fullstack**<br>
- 📫 How to reach me **kieuvanhuy813gmail.com**<br>
+ 📫 How to reach me: <a href="mailto:kieuvanhuy813@gmail.com">kieuvanhuy813@gmail.com</a><br>
  📄 Contact for me with LinkedIn [https://www.linkedin.com/in/kieuvanhuy/](https://www.linkedin.com/in/huy-kieu-van-058b1b346/)<br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Connect with me***
