@@ -25,7 +25,9 @@
   </a>
   </p>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevHuy44&show_icons=true&locale=en&layout=compact" alt="Devhuy44" width="28%" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=Devhuy44&show_icons=true&locale=en" alt="Devhuy44" width="37%" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devhuy44&" alt="Devhuy44" width="37%" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 
